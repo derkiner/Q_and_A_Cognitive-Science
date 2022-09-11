@@ -24,7 +24,7 @@ HOW IT WORKS:
 
 - Build for production => npm run build
 
-- Click right & left buttons to see clients' feedback one by one
+- Click + to see the answers
 ```
 
 <hr>
