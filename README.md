@@ -5,7 +5,7 @@
 ```ts
 FEATURES & METHODS:
 
-- Accordion Effect / Showing Answers through + and -
+- Accordion Effect / Toggling through + and -
 - React Hooks => useState 
 - Ternary Operator for buttons
 - Map & Spread Operators
