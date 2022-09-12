@@ -1,4 +1,4 @@
-# React Project - Cognitive Science Exam Questions & Answers
+# React Project - Cognitive Science Exam Prep App
 
 <hr>
 
