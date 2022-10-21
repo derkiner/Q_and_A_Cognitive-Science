@@ -25,7 +25,7 @@ HOW IT WORKS:
 
 <hr>
 
-# SCREENSHOTS - DIFFERENT SCREEN SIZES:
+# SCREENSHOT:
 ![image](https://user-images.githubusercontent.com/90147636/189540316-331b0bb1-89fb-46f3-bb95-bf8616f5639c.png)
 
 
